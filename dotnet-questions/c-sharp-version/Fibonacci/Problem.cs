@@ -4,8 +4,8 @@ namespace c_sharp_version.Fibonacci
 {
     public class Problem
     {
-        //use TestConsole.Print(message) to print the output of one item
-        //example: TestConsole.Print(1);
+        //use Console.Print(message) to print the output of one item
+        //example: Console.Print(1);
 
         /*
         Write a program that prints the fibonacci sequence with seed values from 0 to 15. 

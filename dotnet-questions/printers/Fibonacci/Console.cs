@@ -4,7 +4,7 @@ namespace printers.Fibonacci
 {
     public class Console
     {
-        public static int Counter;
+        private static int Counter;
 
         public static int GetCount()
         {
