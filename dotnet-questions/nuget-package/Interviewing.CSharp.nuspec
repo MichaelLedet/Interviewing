@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Interviewing.CSharp</id>
+    <version>2.2</version>
+    <title>Interviewing Questions - C#</title>
+    <authors>Joseph Bulger</authors>
+    <owners />
+    <projectUrl>https://github.com/josephbulger/Interviewing/tree/master/dotnet-questions</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>We currently have two questions: Fibonacci and FizzBuzz.</description>
+    <summary>Quick and easy way to do an interview with typical C# questions.</summary>
+    <language>en-US</language>
+    <tags>interviewing</tags>
+    <dependencies>
+      <dependency id="NUnit" version="2.5.10.11092" />
+    </dependencies>
+  </metadata>
+</package>
