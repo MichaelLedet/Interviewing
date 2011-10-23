@@ -56,6 +56,8 @@
     <Compile Include="FizzBuzz\Problem.cs" />
     <Compile Include="FizzBuzz\Runner.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StringCalculator\Calculator.cs" />
+    <Compile Include="StringCalculator\Problem.cs" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
